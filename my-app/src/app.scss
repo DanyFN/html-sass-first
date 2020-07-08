@@ -1,0 +1,18 @@
+// variabili
+$colore_verde: green;
+$grassetto: bolder;
+$font_size: 40px;
+
+// applico le variabili
+body{
+  text-align: center;
+}
+h1{
+  color: $colore_verde;
+}
+h3{
+  font-weight: $grassetto;
+}
+p{
+  font-size: $font_size;
+}
